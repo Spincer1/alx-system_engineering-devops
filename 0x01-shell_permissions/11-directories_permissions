@@ -1,0 +1,2 @@
+#!/bit/bash
+chmod -R +x .
